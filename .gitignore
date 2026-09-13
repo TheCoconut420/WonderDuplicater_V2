@@ -1,0 +1,14 @@
+# Python build artifacts
+__pycache__/
+*.py[cod]
+
+# Local application state
+actor_duplication_settings.json
+undo/
+
+# Local editor files
+.vscode/
+*.lnk
+
+# Local backup copies
+*- Kopie.py
